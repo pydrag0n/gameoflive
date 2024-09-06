@@ -1,0 +1,1 @@
+tcc -m32 -o GameOfLife.exe init.c -lkernel32 -luser32 -lgdi32 -lopengl32 
